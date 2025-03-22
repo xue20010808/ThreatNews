@@ -35,5 +35,7 @@ mcp.json:
       }
     }
 
+OR Install it in Smithery：
+<img width="1409" alt="image" src="https://github.com/user-attachments/assets/ed0eed70-e399-46c4-a50a-5f1c7912f03f" />
 
 
