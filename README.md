@@ -1,5 +1,7 @@
 MCP server for threat info colletion
 
+[![smithery badge](https://smithery.ai/badge/@xue20010808/threatnews)](https://smithery.ai/server/@xue20010808/threatnews)
+
 Usage :
 TOOL: collect_threat_info
 arguments": {
@@ -35,5 +37,11 @@ mcp.json:
       }
     }
 
+### Installing via Smithery
 
+To install threatnews for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@xue20010808/threatnews):
+
+```bash
+npx -y @smithery/cli install @xue20010808/threatnews --client claude
+```
 
